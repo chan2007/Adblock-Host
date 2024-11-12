@@ -6,4 +6,5 @@ About:
 
 How to Check:
 - Go to a Browser and Paste this
-https://d3ward.github.io/toolz/adblock
+[Adblock Test](https://d3ward.github.io/toolz/adblock).
+
