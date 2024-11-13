@@ -11,7 +11,7 @@ Adblock Host is a powerful solution for blocking ads and tracking on your device
 
 ## How to Check?
 
-[Adblock Test](https://d3ward.github.io/toolz/adblock).
+[Adblock Test](https://d3ward.github.io/toolz/adblock)
 
 ## WARNING ⚠️
 
