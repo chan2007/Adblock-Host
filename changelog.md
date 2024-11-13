@@ -1,4 +1,7 @@
-# Changelog
+## Change Log:
+1.1
+- Fix Bugs  
+- Added updateJSON for easier update in Latest Magisk Version.
 
-- Added Fix for some bugs
-- Added updateJSON directly to magisk
+1.0
+- Initial release
